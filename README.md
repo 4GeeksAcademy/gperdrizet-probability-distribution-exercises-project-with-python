@@ -12,6 +12,12 @@ The notebook `problems.ipynb` includes:
 - **Exercise 1**: A reusable `ContinuousDistribution` class for normal and uniform distributions
 - **Visualizations**: Matplotlib plots showing probability density, cumulative density, and percentiles for each distribution type
 
+### Normal Distribution Example
+
+![Normal Distribution](assets/normal.png)
+
+*Example output showing probability density, cumulative probability density, and percentiles for a normal distribution*
+
 ## Getting Started
 
 ### Option 1: GitHub Codespaces (Recommended)
