@@ -79,11 +79,7 @@ This project explores fundamental concepts in probability theory and statistics 
 
 ```
 ├── .devcontainer/        # Development container configuration
-├── assets/               # Generated plots and resources directory
-│   ├── binomial.png      # Binomial distribution visualization
-│   ├── normal.png        # Normal distribution visualization
-│   ├── preview.jpeg      # Project preview image
-│   └── uniform.png       # Uniform distribution visualization
+├── assets/               # Images and other files
 │
 ├── notebooks/            # Jupyter notebook directory
 │   ├── assignment.ipynb  # Assignment notebook with exercises
